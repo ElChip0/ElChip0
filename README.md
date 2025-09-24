@@ -1,23 +1,24 @@
 # 👋 Hola, soy Nicolás Ernesto Navarro Temoche
 
-📍 Vivo en Surquillo, Lima – Perú | 🏠 Propietario de espacios para alquiler en La Victoria  
-🎯 Apasionado por la gestión humana, el clima laboral y las inversiones inmobiliarias
+📍 Vivo en Surquillo, Lima – Perú  
+🎯 Apasionado por la gestión humana, el clima laboral y la transformación digital en entornos organizativos.  
+Me interesa cómo la tecnología puede potenciar la experiencia del empleado, optimizar procesos y generar decisiones más inteligentes.  
 
 ## 💼 ¿Qué hago?
 - Analizo organizaciones desde una mirada estratégica y humana
 - Traduzco teoría en acciones prácticas para mejorar el ambiente laboral
-- Redacto informes claros y útiles para equipos multidisciplinarios
-- Evalúo propiedades y oportunidades de inversión con enfoque en rentabilidad
+- Analizo procesos organizativos y propongo automatizaciones que aumentan la eficiencia
+- Aplico herramientas TI para optimizar el clima laboral y la colaboración interna
 
 ## 🧠 Habilidades destacadas
-- Diagnóstico organizacional y gestión del talento
+- Análisis de datos aplicados a decisiones estratégicas en gestión humana e inversiones
 - Síntesis de información técnica en lenguaje accesible
-- Redacción de proyectos colaborativos
-- Optimización de procesos y mejora continua
+- Diagnóstico organizacional con apoyo de herramientas digitales
+- Automatización de procesos operativos y mejora continua con enfoque en eficiencia
 
 ## 🚀 Proyectos recientes
 - Informes sobre experiencia del empleado con propuestas aplicadas
-- Comparativas de propiedades para alquiler en Lima
+- Diseño y documentación de un proyecto de redes LAN/WAN, incluyendo topología, direccionamiento IP, simulación en Packet Tracer y análisis de escalabilidad para entornos empresariales
 - Conclusiones académicas en lenguaje sencillo y motivador
 
 ## 🤝 ¿Colaboramos?
